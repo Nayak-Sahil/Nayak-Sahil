@@ -21,9 +21,15 @@
     <td>🔭 I’m currently working on <a href="https://github.com/Nayak-Sahil/AaharVeda"><strong>AaharVeda</strong></a></td>
   </tr>
   <tr>
-    <td>📧 How to reach me: <strong>sahildnyk@gmail.com</strong></td>
+    <td>📧 Contact Me: <a href="mailto:sahildnyk@gmail.com"><strong>sahildnyk@gmail.com</strong></a></td>
   </tr>
 </table>
+<br>
+<div align="center">
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="80" alt="Hello" />
+<img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.png" width="80" alt="Hello" />
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="80" alt="Hello" />
+</div>
 <br>
 <h3 align="left">👨‍💻 Tech Stack Proficiency</h3>
 <img align="right" src="https://github-contributor-stats.vercel.app/api?username=Nayak-Sahil&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" alt="Hello" />
