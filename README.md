@@ -10,18 +10,18 @@
   <a href="https://www.hackerrank.com/sahil_nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil_nayak" height="30" width="40" /></a>
 </p>
 <br>
-<table>
+<table align="center">
   <tr>
-    <td>🙋‍♂️ Hello everyone, I'm a pre-final year B.Tech I.T. student at L.D. College of Engineering.</td>
+    <td>Hello everyone 🙋‍♂️,</td>
   </tr>
   <tr>
-    <td>💻 I've worked with teams on various innovative and industry projects and applied my skills in research, system design, and development.</td>
+    <td>I've worked with teams on various innovative and industry projects and applied my skills in research, system design, and development.</td>
   </tr>
   <tr>
-    <td>🔭 I’m currently working on <a href="https://github.com/Nayak-Sahil/AaharVeda"><strong>AaharVeda</strong></a></td>
+    <td>View <a href="https://drive.google.com/file/d/192dQyJC5I5sntNVi_-v_7d_7KeAzKT0O/view?usp=drive_link"><strong>Resume</strong></a></td>
   </tr>
   <tr>
-    <td>📧 Contact Me: <a href="mailto:sahildnyk@gmail.com"><strong>sahildnyk@gmail.com</strong></a></td>
+    <td>Reach out to me on <a href="mailto:sahildnyk@gmail.com"><strong>sahildnyk@gmail.com</strong></a></td>
   </tr>
 </table>
 <br>
@@ -32,16 +32,12 @@
 </div>
 <br>
 <h3 align="left">👨‍💻 Tech Stack Proficiency</h3>
-<img align="right" src="https://github-contributor-stats.vercel.app/api?username=Nayak-Sahil&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" alt="Hello" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayak-Sahil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350" alt="TopUsedLanguage" />
 &nbsp; 
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,tailwind,js,nodejs,net,react,vite,nextjs,php,express,mysql,mongodb,postgres,sqlite,git,postman,androidstudio,npm&perline=7)](https://skillicons.dev)
 <br>
 &nbsp;&nbsp;
 
-<h3 align="left">🌟 My GitHub Highlights</h3>
-<p align="left">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayak-Sahil&theme=dark&hide_border=false">
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayak-Sahil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+
 
